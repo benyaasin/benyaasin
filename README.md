@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Yasin AYDIN</h1>
-<h3 align="center">A passionate fullstack developer from Earth :)</h3>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC900&background=90909006&center=true&vCenter=true&random=false&width=1024&height=62&lines=..........A+passionate+full+stack+developer+..........;..........Yasin+AYDIN..........)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benyaasin&label=Profile%20views&color=0e75b6&style=flat" alt="benyaasin" /> </p>
 
